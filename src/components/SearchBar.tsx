@@ -1,6 +1,6 @@
 // SearchBar.tsx
 import React from 'react';
-import { FaSearch } from 'react-icons/fa'; // Импортируем иконку из react-icons
+import { FaSearch } from 'react-icons/fa';
 
 interface SearchBarProps {
   query: string;
